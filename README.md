@@ -20,7 +20,9 @@ So only use your phone to enter this
 
 
 # Updates
-Laptop sized in the future
+```diff
+    + Laptop sized in the future
+```
 
 ## Other things
 * [My facebook](https://youtu.be/dQw4w9WgXcQ)
