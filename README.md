@@ -1,5 +1,5 @@
 ## This is a "about me" page 
-This page contains lots of information about me 
+This page contains lots of information about me and how I learned to code
 
 # Who is my crush?
 It's **Joanne munn**
