@@ -1,6 +1,7 @@
 ## This is a "about me" page 
 This page contains lots of information about me and how I learned to code
 
+#### A little preview of my nav
 ```html
     <nav>
         <div>
