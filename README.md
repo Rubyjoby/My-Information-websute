@@ -2,7 +2,7 @@
 And I'm a web developer 
 
 # Who is my crush?
-It's Joanne munn
+It's __Joanne munn__
 
 # Notice
 This page is only available on android devices
