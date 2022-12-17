@@ -5,7 +5,7 @@ And I'm a web developer
 It's __Joanne munn__
 
 # Notice
-This page is only available on android devices
+> This page is only available on android devices
 So only use your phone to enter this
 
 # Updates
