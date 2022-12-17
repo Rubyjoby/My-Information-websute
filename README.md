@@ -1,6 +1,14 @@
 ## This is a "about me" page 
 This page contains lots of information about me and how I learned to code
 
+```html
+    <nav>
+        <div>
+            <img src="images/five">
+        </div>
+    </nav>
+```
+
 # Who is my crush?
 It's **Joanne munn**
 
