@@ -10,6 +10,10 @@ This page contains lots of information about me and how I learned to code
     </nav>
 ```
 
+# The full website
+> The completed website is about random things
+------------------------------------
+
 # Who is my crush?
 It's **Joanne munn**
 
